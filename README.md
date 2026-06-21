@@ -2,6 +2,8 @@
 
 TimeKeeper is a local-only Windows tray app that records the active window at polling intervals.
 
+<img width="244" height="143" alt="Screenshot 2026-06-21 BG" src="https://github.com/user-attachments/assets/cf759e54-4449-4146-84a3-7d176c193c75" />
+
 ## Features
 
 - Polls on clock boundaries (for example, `10:00`, `10:05`, `10:10`)
